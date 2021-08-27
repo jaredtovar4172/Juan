@@ -1,0 +1,11 @@
+C:\Users\jared\source\repos\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\jared\source\repos\Alumnos\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\jared\source\repos\Alumnos\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.Form1.resources
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.Properties.Resources.resources
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\jared\source\repos\Alumnos\Alumnos\obj\Debug\Alumnos.DialogBoxCaptura.resources
