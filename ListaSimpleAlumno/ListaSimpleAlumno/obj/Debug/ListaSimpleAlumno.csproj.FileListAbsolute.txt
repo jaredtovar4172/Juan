@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\bin\Debug\ListaSimpleAlumno.exe.config
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\bin\Debug\ListaSimpleAlumno.exe
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\bin\Debug\ListaSimpleAlumno.pdb
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.Form1.resources
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.Properties.Resources.resources
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.exe
+C:\Users\jared\source\repos\ListaSimpleAlumno\ListaSimpleAlumno\obj\Debug\ListaSimpleAlumno.pdb
